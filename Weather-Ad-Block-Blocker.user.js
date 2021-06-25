@@ -10,6 +10,8 @@
 // @grant        GM_deleteValue
 // @grant        GM_addStyle
 // @require      https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js
+// @downloadURL  https://github.com/srfrmac87/Weather.ComAdBlockerBlocker/blob/main/Weather-Ad-Block-Blocker.user.js
+// @updateURL    https://github.com/srfrmac87/Weather.ComAdBlockerBlocker/blob/main/Weather-Ad-Block-Blocker.user.js
 // ==/UserScript==
 
 (function() {
