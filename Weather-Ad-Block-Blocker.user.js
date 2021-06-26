@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Weather.com adblock blocker blocker
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.10001
 // @description  try to take over the world!
 // @author       You
 // @match        https://weather.com/*
